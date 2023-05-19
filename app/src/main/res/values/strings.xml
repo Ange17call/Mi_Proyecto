@@ -4,4 +4,5 @@
     <string name="doc">Documento:</string>
     <string name="tel">Telefono:</string>
     <string name="nom">Nombre:</string>
+    <string name="bus">Buscar</string>
 </resources>
